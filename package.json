@@ -4,6 +4,9 @@
     "description": "Angular Extension Package for Improving Productivity",
     "version": "1.0.0",
     "publisher": "joaoeudes7",
+    "repository": {
+        "url": "https://github.com/joaoeudes7/angular-pack-vsce"
+    },
     "icon": "angular-icon.png",
     "galleryBanner": {
         "color": "#0273D4",
@@ -16,14 +19,10 @@
         "Extension Packs"
     ],
     "keywords": [
-        "Angular",
-        "Angular 2",
-        "Angular 4",
+        "Angular Pack",
         "Angular 5",
         "Angular 6",
         "Typescript",
-        "TS",
-        "Angular Pack",
         "TS Pack"
     ],
     "extensionDependencies": [
