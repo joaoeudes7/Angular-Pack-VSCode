@@ -1,0 +1,42 @@
+{
+    "name": "angular-pack",
+    "displayName": "Angular Extension Pack",
+    "description": "Angular Extension Package for Improving Productivity",
+    "version": "1.0.0",
+    "publisher": "joaoeudes7",
+    "icon": "angular-icon.png",
+    "galleryBanner": {
+        "color": "#0273D4",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "Angular",
+        "Angular 2",
+        "Angular 4",
+        "Angular 5",
+        "Angular 6",
+        "Typescript",
+        "TS",
+        "Angular Pack",
+        "TS Pack"
+    ],
+    "extensionDependencies": [
+        "Angular.ng-template",
+        "EditorConfig.EditorConfig",
+        "PKief.material-icon-theme",
+        "christian-kohler.path-intellisense",
+        "eg2.tslint",
+        "formulahendry.auto-rename-tag",
+        "johnpapa.Angular2",
+        "CoenraadS.bracket-pair-colorizer",
+        "rbbit.typescript-hero",
+        "sleistner.vscode-fileutils",
+        "aaron-bond.better-comments"
+    ]
+}
